@@ -6,8 +6,8 @@
 
   (title_block
     (title "TopiBadge")
-    (date "2024-07-05")
-    (rev "v2.5")
+    (date "2024-07-09")
+    (rev "v3")
     (comment 1 "Numerous circuitry fixes")
     (comment 2 "creativecommons.org/licenses/by/4.0")
     (comment 3 "License: CC BY 4.0")
